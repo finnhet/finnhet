@@ -47,9 +47,3 @@ My GitHub mostly contains:
 * Experimental side projects
 
 I mainly use GitHub to publish projects I'm actively working on and ideas I'm experimenting with.
-
----
-
-## 🌐 Website
-
-Website: https://finnhettinga.nl
