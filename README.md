@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Finn 👋
 
-<!--
-**finnhet/finnhet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student focused on building modern web applications using **Laravel and TypeScript**. I enjoy creating backend systems, APIs, and full-stack web projects.
 
-Here are some ideas to get you started:
+🌐 Website: https://finnhettinga.nl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Web developer focused on **Laravel and TypeScript**
+* ⚙️ Interested in **backend architecture, APIs, and modern web stacks**
+* 🧪 I like building side projects and experimenting with new technologies
+* 🌍 Based in the Netherlands
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+* Laravel
+* PHP
+* REST APIs
+
+**Frontend**
+
+* TypeScript
+* React
+* React native
+
+**Tools**
+
+* Git
+* Linux
+* Databases (MySQL / PostgreSQL)
+
+---
+
+## 📂 What You'll Find Here
+
+My GitHub mostly contains:
+
+* Laravel backend projects
+* TypeScript applications
+* Web tools and utilities
+* Experimental side projects
+
+I mainly use GitHub to publish projects I'm actively working on and ideas I'm experimenting with.
+
+---
+
+## 🌐 Website
+
+Website: https://finnhettinga.nl
