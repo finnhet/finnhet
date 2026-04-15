@@ -1,7 +1,6 @@
 # Hi, I'm Finn 👋
 
-I'm a student focused on building modern web applications using **Laravel and TypeScript**. I enjoy creating backend systems, APIs, and full-stack web projects.
-
+I'm a student focused on building modern web applications.
 🌐 Website: https://finnhettinga.nl
 
 ---
@@ -10,7 +9,6 @@ I'm a student focused on building modern web applications using **Laravel and Ty
 
 * 💻 Web developer focused on **Laravel and TypeScript**
 * ⚙️ Interested in **backend architecture, APIs, and modern web stacks**
-* 🧪 I like building side projects and experimenting with new technologies
 * 🌍 Based in the Netherlands
 
 ---
@@ -21,7 +19,7 @@ I'm a student focused on building modern web applications using **Laravel and Ty
 
 * Laravel
 * PHP
-* REST APIs
+* Golang
 
 **Frontend**
 
